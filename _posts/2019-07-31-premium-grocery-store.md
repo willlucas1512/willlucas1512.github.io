@@ -10,7 +10,14 @@ tags:
 
 Protótipo de sistema para totem de self check-out de um supermercado fake. Feito em algumas horas na plataforma Figma. Você pode dar uma olhada nele neste [link][prototipo-link].
 
-[Screenshot](/assets/images/grocerystore.png)
+![captura de tela](/assets/images/grocerystore.png)
+
+
+
+
+
+
+
 
 
 [prototipo-link]: https://www.figma.com/proto/2dKVmpztFTpHbqJSwDKdVQ/Premium-Grocery-Store?scaling=scale-down&node-id=1%3A2
