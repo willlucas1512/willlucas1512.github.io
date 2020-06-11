@@ -1,6 +1,9 @@
 ---
 title: "Eventos"
-layout: categories
+#layout: categories
 permalink: /events/
 author_profile: true
 ---
+
+
+Em construção.
