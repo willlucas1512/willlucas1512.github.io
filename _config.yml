@@ -16,7 +16,7 @@
 title: William Lucas
 email: willlucas1512@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  William Lucas, estudante de Engenharia de Computação e Informação e desenvolvedor front-end.
+  William Lucas, desenvolvedor front-end, designer UX/UI e estudante de Engenharia de Computação.
 #twitter_username: username
 github_username: willlucas1512
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "William Lucas"
   avatar : "/assets/images/me.jpeg"
-  bio    : "Estudante de Engenharia de Computação e Informação e desenvolvedor front-end."
+  bio    : "Desenvolvedor front-end, designer UI/UX e estudante de Engenharia de Computação"
   links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
