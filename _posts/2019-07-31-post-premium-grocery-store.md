@@ -6,6 +6,7 @@ categories:
 tags:
   - protótipo
   - 1 day work
+  - Post Formats
 ---
 
 Protótipo de sistema para totem de self check-out de um supermercado fake. Feito em algumas horas na plataforma Figma. Você pode dar uma olhada nele neste [link][prototipo-link].
