@@ -8,7 +8,7 @@ tags:
   - site
 ---
 
-Site para descrição e download da suite que adapta o LibreOffice para LIBRAS. Desenvolvido em Angular.
+Site para descrição e download da suite que adapta o LibreOffice para LIBRAS. Desenvolvido em Angular e Materialize.
 
 ![Captura de tela1](/assets/images/librasoffice.png)
 ![Captura de tela2](/assets/images/librasoffice2.png)
