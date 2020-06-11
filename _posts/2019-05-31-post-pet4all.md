@@ -10,9 +10,8 @@ tags:
   - Post Formats
 ---
 
-Protótipo de app marketplace para venda e compra de produtos de pet shops. Feito em algumas horas na plataforma Figma. Você pode dar uma olhada nele neste [link][screenshot-home].
+Protótipo de app marketplace para venda e compra de produtos de pet shops. Feito em algumas horas na plataforma Figma.
 
 ![Captura de tela1](/assets/images/pet4all.png)
 ![Captura de tela2](/assets/images/pet4all2.png)
 
-[screenshot-home]: https://www.figma.com/proto/JS5Bh4JzWfnLLjCKEkeJ6RJR/Pet4All?node-id=3%3A2&scaling=scale-down
