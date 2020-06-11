@@ -7,6 +7,7 @@ tags:
   - app
   - protótipo
   - pet
+  - Post Formats
 ---
 
 Protótipo de app marketplace para venda e compra de produtos de pet shops. Feito em algumas horas na plataforma Figma. Você pode dar uma olhada nele neste [link][screenshot-home].
