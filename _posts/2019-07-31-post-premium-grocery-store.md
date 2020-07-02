@@ -5,7 +5,6 @@ categories:
   - projetos
 tags:
   - protótipo
-  - 1 day work
   - Post Formats
 ---
 
