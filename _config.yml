@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "William Lucas"
   avatar : "/assets/images/me.jpeg"
-  bio    : "Desenvolvedor front-end, designer UI/UX e estudante de Engenharia de Computação"
+  bio    : "Front-end developer, UI/UX designer and Computer Engineering student"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
