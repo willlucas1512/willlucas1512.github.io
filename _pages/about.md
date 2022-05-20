@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Sobre mim"
+title: "About me"
 ---
 
 ![me](/assets/images/me.jpeg)
